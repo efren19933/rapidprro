@@ -10,3 +10,9 @@ repository: https://github.com/rapidpro/rapidpro
 collections:
   docs:
     output: true
+
+title: Rapidpro
+description: RapidPro is a hosted service allowing organizations to visually build scalable interactive messaging applications.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
